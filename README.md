@@ -1,7 +1,6 @@
-# Sales_dashboard_summary
----
-# 📊 Sales Dashboard – Data Analyst Internship Task 8
 
+# 📊 Sales Dashboard 
+---
 ## 📁 Dataset Used
 We used the dataset: `cleaned_train_data.csv`  
 It includes information such as:
@@ -14,7 +13,7 @@ It includes information such as:
 ---
 
 ## 🧠 Objective
-To build a simple interactive dashboard in **Power BI** to visualize sales performance over time, by region, and by product category.
+To build a simple interactive dashboard in **Power BI** to visualise sales performance over time, by region, and by product category.
 
 ---
 
@@ -63,6 +62,7 @@ To build a simple interactive dashboard in **Power BI** to visualize sales perfo
 -🌍 West region had the highest sales across all months.
 -🖥️ Technology category outperformed Furniture and Office Supplies.
 -📉 South region showed decent sales but relatively lower profits.
+
 ---
 ## 🖼️ Files Included
 
